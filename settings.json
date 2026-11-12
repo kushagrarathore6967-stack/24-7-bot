@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FasterGamers.aternos.me",
-    "port": 22188,
+    "ip": "my-server-bad01a.play.shulkerboxes.com",
+    "port": 19132,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 2,
     "max-reconnect-delay": 120000
   },
   "movement": {
